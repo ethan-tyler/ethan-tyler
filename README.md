@@ -2,7 +2,7 @@
 
 **Data Architect @ Eli Lilly | [delta-rs](https://github.com/delta-io/delta-rs) Collaborator | Open Source Contributor | Lakehouse Enthusiast**
 
-I'm passionate about building the next generation of data infrastructure. By day, I architect analytics platforms in the pharmaceutical industry. Outside of work, I contribute to open source and stay hands-on with the systems shaping modern data platforms.
+I'm passionate about building the next generation of data infrastructure. By day, I architect analytics platforms in the pharmaceutical industry. Outside of work, I contribute to open source and stay hands on with the systems shaping modern data platforms.
 
 ---
 
@@ -10,13 +10,13 @@ I'm passionate about building the next generation of data infrastructure. By day
 
 ### [daxis-io/arco](https://github.com/daxis-io/arco)
 
-Serverless lakehouse infrastructure — a file-native catalog with execution-first orchestration. Reimagining how we build, govern, and deploy data platforms without heavyweight control planes.
+Serverless lakehouse infrastructure - I wanted to explore the idea of having a file native catalog with execution first orchestration. This could be the key to how we build, govern, and deploy data platforms without heavyweight control planes.
 
 ---
 
 ## Open Source Contributions
 
-Active contributor to the Apache Arrow ecosystem, focused on bringing row-level DML operations to the Rust data stack:
+Active contributor to the Apache Arrow ecosystem, focused advancing lakehouse technology:
 
 - **[Apache DataFusion](https://github.com/apache/datafusion)** 
 - **[delta-rs](https://github.com/delta-io/delta-rs)** 
@@ -38,7 +38,7 @@ Focus areas:    Lakehouse architecture · Data engineering · Platform design
 
 ## Professional Work
 
-At **Eli Lilly**, I lead **PRISM** — a strategic transformation program architecting the future of pharmaceutical analytics on modern lakehouse infrastructure. I work at the intersection of platform architecture, data engineering, and analytics enablement to turn complex healthcare data into reliable, actionable insights.
+At **Eli Lilly**, I lead **PRISM** - a strategic transformation program architecting the future of pharmaceutical analytics on modern lakehouse infrastructure. I work at the intersection of platform architecture, data engineering, and analytics enablement to turn complex healthcare data into reliable, actionable insights.
 
 ---
 
