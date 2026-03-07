@@ -1,6 +1,6 @@
 # Hey, I'm Ethan
 
-**Data Architect @ Eli Lilly | [delta-rs](https://github.com/delta-io/delta-rs) Collaborator | Open Source Contributor | Lakehouse Enthusiast**
+**Data Architect @ Eli Lilly | [delta-rs](https://github.com/delta-io/delta-rs) Maintainer | Open Source Contributor | Lakehouse Enthusiast**
 
 I'm passionate about building the next generation of data infrastructure. By day, I architect analytics platforms in the pharmaceutical industry. Outside of work, I contribute to open source and stay hands on with the systems shaping modern data platforms.
 
