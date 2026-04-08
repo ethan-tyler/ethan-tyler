@@ -22,6 +22,7 @@ Active contributor to the Apache Arrow ecosystem, focused advancing lakehouse te
 - **[delta-rs](https://github.com/delta-io/delta-rs)** 
 - **[iceberg-rust](https://github.com/apache/iceberg-rust)**
 - **[arrow-rs](https://github.com/apache/arrow-rs)**
+- **[delta-kernel-rs](https://github.com/delta-io/delta-kernel-rs)** 
 
 ---
 
