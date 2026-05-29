@@ -19,7 +19,7 @@ Serverless lakehouse infrastructure - I wanted to explore the idea of having a f
 Active contributor to the Apache Arrow ecosystem, focused advancing lakehouse technology:
 
 - **[Apache DataFusion](https://github.com/apache/datafusion)** 
-- **[delta-rs](https://github.com/delta-io/delta-rs)** 
+- **[delta-rs](https://github.com/delta-io/delta-rs)** - **Maintainer**
 - **[iceberg-rust](https://github.com/apache/iceberg-rust)**
 - **[arrow-rs](https://github.com/apache/arrow-rs)**
 - **[delta-kernel-rs](https://github.com/delta-io/delta-kernel-rs)** 
