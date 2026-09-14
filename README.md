@@ -1,6 +1,6 @@
 # Hey, I'm Ethan
 
-**Data Architect @ Eli Lilly | [delta-rs](https://github.com/delta-io/delta-rs) Maintainer | Open Source Contributor | Lakehouse Enthusiast**
+**[delta-rs](https://github.com/delta-io/delta-rs) Maintainer | Open Source Contributor | Lakehouse Enthusiast**
 
 I'm passionate about building the next generation of data infrastructure. By day, I architect analytics platforms in the pharmaceutical industry. Outside of work, I contribute to open source and stay hands on with the systems shaping modern data platforms.
 
@@ -29,18 +29,11 @@ Active contributor to the Apache Arrow ecosystem, focused advancing lakehouse te
 ## Tech Stack
 
 ```
-Languages:      Rust · Python · SQL
+Languages:      Rust · Python · SQL · C/C++
 Data formats:   Delta Lake · Apache Iceberg · Parquet · Arrow
-Platforms:      Databricks · GCP · AWS
+Platforms:      Databricks · GCP · AWS · Cloudflare
 Focus areas:    Lakehouse architecture · Data engineering · Platform design
 ```
-
----
-
-## Professional Work
-
-At **Eli Lilly**, I lead **PRISM** - a strategic transformation program architecting the future of pharmaceutical analytics on modern lakehouse infrastructure. I work at the intersection of platform architecture, data engineering, and analytics enablement to turn complex healthcare data into reliable, actionable insights.
-
 ---
 
 ## Let's Connect
